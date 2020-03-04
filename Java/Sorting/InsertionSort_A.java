@@ -11,7 +11,7 @@ import java.util.regex.*;
 
 public class InsertionSort_A {
 
-    static void InsertionSort_A(int n, int[] arr) {
+    static void insertionSort1(int n, int[] arr) {
 
         int unsortedNum = arr[n - 1];
 
